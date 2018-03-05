@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="plants_of_ci">Plants of CI</string>
+    <string name="interactive_map">Interactive Map</string>
+    <string name="plant_search">Plant Search</string>
+    <string name="about"> About Page</string>
+    <string name="dolphin"> dolphin icon</string>
+
+
+</resources>
