@@ -14,4 +14,10 @@
 
 
     <!--Tyler's Colors-->
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="light_cream">#EEF3DC</color>
+    <color name="green_text_background">#576446</color>
+    <color name="dark_green_text">#3E6334</color>
+    <color name="spanish_red_background">#993300</color>
 </resources>

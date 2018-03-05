@@ -5,6 +5,16 @@
     <string name="plant_search">Plant Search</string>
     <string name="about"> About Page</string>
     <string name="dolphin"> dolphin icon</string>
+    <string name="search_list">Search List</string>
+    <string name="plant1" />
+    <string name="plant2" />
+    <string name="plant3" />
+    <string name="plant4" />
+    <string name="plant5" />
+    <string name="plant6" />
+    <string name="plant7" />
+    <string name="plant8" />
+    <string name="plant9" />
 
 
 </resources>
