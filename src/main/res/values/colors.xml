@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    //Steven's Colors
+    <!--Steven's Colors-->
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="opaquewhite">#66ffffff</color>
 
-    //Travis's Colors
+    <!--Travis's Colors-->
 
 
 
-    //Ricky's Colors
+    <!--Ricky's Colors-->
 
 
-    //Tyler's Colors
+    <!--Tyler's Colors-->
 </resources>
