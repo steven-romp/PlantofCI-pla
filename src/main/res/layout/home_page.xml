@@ -4,11 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background"
+    android:background="@drawable/home_page"
     tools:context="com.example.steven.myapplication.MainActivity"
     tools:layout_editor_absoluteY="25dp">
 
-    <EditText
+    <TextView
         android:id="@+id/Title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -16,7 +16,6 @@
         android:background="@color/opaquewhite"
         android:ems="10"
         android:fontFamily="@font/roboto_mono_light"
-        android:inputType="textPersonName"
         android:text="@string/plants_of_ci"
         android:textAlignment="center"
         android:textColor="@android:color/black"
@@ -36,7 +35,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/Title" />
+        app:layout_constraintTop_toBottomOf="@+id/Title"
+        android:onClick="interactiveMapButton"/>
 
     <Button
         android:id="@+id/button3"
@@ -47,7 +47,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button2" />
+        app:layout_constraintTop_toBottomOf="@+id/button2"
+        android:onClick="plantSearchButton"/>
 
     <ImageButton
         android:id="@+id/About"
