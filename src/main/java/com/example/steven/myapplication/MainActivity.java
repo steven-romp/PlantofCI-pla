@@ -16,10 +16,10 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void interactiveMapButton(View view) {
-        startActivity(new Intent(this,InteractiveMap.class));
+        startActivity(new Intent(this, InteractiveMap.class));
     }
 
     public void plantSearchButton(View view) {
-        startActivity(new Intent(this,PlantSearch.class));
+        startActivity(new Intent(this, PlantSearch.class));
     }
 }
